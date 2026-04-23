@@ -1,3 +1,9 @@
+splash:
+<img width="1080" height="2460" alt="image" src="https://github.com/user-attachments/assets/97e9b024-263e-495a-8306-1e620bac0c5c" />
+
+
+
+
 tab1:
 boton de alerta:
 <img width="562" height="812" alt="image" src="https://github.com/user-attachments/assets/ea21422a-3cb4-4d46-9186-518e1bf61a55" />
